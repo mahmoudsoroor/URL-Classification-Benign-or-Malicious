@@ -1,0 +1,16 @@
+                                
+ 
+                                                  Benign URLs:
+
+                                  http://east35.org/LZoZ9kaE/
+
+                                  https://www.eventbrite.com/e/hackerx-ottawa-full-stack-employer-ticket-215-tickets-41525764680
+
+
+
+
+                                             Malicious URLs:
+                                        
+                  https://www.nakedlocals.com/login.php?wu=61FacpQ%2BBGiGKP3QTHIPgg%3D%3D&r=/members/upgrade.php?action=sms&mem_id=96622608
+
+                 http://ref-me.su/secure/
